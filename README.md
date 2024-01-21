@@ -1,7 +1,4 @@
 
-### Backend README
-
-```markdown
 # ExifData-Processing - Backend
 
 Welcome to the ExifData Processing backend repository!
